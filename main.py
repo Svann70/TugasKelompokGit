@@ -1,4 +1,4 @@
-def main():
+def moan():
     print("Hello World!")
 
 if __name__ == "__main__":
